@@ -1,0 +1,5 @@
+a=float(input('ingrese la longitud del cateto a: '))
+b=float(input('ingrese la longitud del cateto b: '))
+c=(a**2)+(b**2)
+h= c**(1/2)
+print(h)
